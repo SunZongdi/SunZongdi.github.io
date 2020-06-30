@@ -1,0 +1,31 @@
+ ul {margin:0; padding:0; list-style:none; line-height:18px;}
+ li { padding-left:15px; background:url(images/arrow_2.gif) no-repeat left center}
+ li a {color:#21235E;}
+
+body{margin:0px; padding:0px; background-color:#FFFFFF;}
+
+table {border:0px;}
+
+form{margin:0px; padding:0px;}
+
+td, input, textarea{font-size:11px; font-family:Tahoma; color:#636363; line-height:14px; vertical-align:top;}
+
+input,textarea {margin:0px; padding:0px 0px 0px 5px; width:199px;}
+input {height:18px;}
+
+a:hover {text-decoration:none;}
+
+span {color:#21235E;}
+
+.text_2{color:#FFFFFF;}
+.text_2 a{color:#FFFFFF;}
+
+.more{color:#636363; padding:15px; background:url(images/arrow_1.gif) no-repeat left center; font-weight:bold;}
+
+.link_1{color:#21235E;}
+
+.copy{color:#FFFFFF;}
+.copy a{color:#FFFFFF; text-decoration:none;}
+.copy a:hover{text-decoration:underline;}
+
+.name {color:#21235E; text-align:right;}
